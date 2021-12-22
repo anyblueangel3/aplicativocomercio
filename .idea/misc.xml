@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout-sw600dp/activity_product_category.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_abertura.xml" value="0.2980072463768116" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_product.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_product_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_product_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_product_detail_const.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_user_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/activity_user_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/fragment_product.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/fragment_product_category.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/fragment_product_category2.xml" value="0.3229166666666667" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/item_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/item_product_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/menu_header_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/menu_navigation_viewer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/layout/menu_toolbar_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/menu/menu_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/AplicativoComercio/app/src/main/res/xml/settings.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://sche3mas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:key="notifications_category"
+        app:title="Notificações">
+
+        <SwitchPreference
+            app:key="notifications_category"
+            app:summary="Receba notificações sobre seus pedidos, produtos e promoções."
+            app:title="Habilitar mensagens e notificações">
+
+        </SwitchPreference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:key="help_category"
+        app:title="Ajuda">
+
+        <Preference
+            app:key="feedback"
+            app:summary="Aviso de problemas técnicos ou envie sugestões de melhorias."
+            app:title="Entrar em Contato">
+
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.androidpro.com.br/contato">
+
+            </intent>
+
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
